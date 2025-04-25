@@ -4,20 +4,23 @@ Welcome to the **Zero Trust Security Framework** repository! This project is des
 
 This framework will guide you through the setup, configuration, and integration of **Zero Trust Security** for your system using **user-friendly graphical tools**. 🚀
 
-## Table of Contents 📚
+# Table of Contents 📚
 
 - [Introduction](#introduction)
 - [Core Principles](#core-principles)
 - [Key Components](#key-components)
 - [Best Practices](#best-practices)
 - [System Configuration](#system-configuration)
-- [Authentication & Encryption](#authentication-encryption)
-- [Firewall & Security Policies](#firewall-security-policies)
+- [Authentication & Encryption](#authentication--encryption)
+- [Firewall & Security Policies](#firewall--security-policies)
 - [Integration Guides](#integration-guides)
 - [Advanced Use Cases](#advanced-use-cases)
 - [System Hardening](#system-hardening)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Introduction
+...
 
 ## Introduction 👋
 
